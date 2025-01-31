@@ -14,13 +14,16 @@
   *Завершил курс Нейросети: от принципов к практике*
   ![Нейро Бизнес и ВИП (завершил)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)
   
-- **Диплом по программированию на Python**  
+- **Сертификат**
+  *Интенсив по программированию на PYTHON с помощью chatGPT*
   ![Интенсив по программированию на PYTHON с помощью chatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)
 
-- **Диплом по анализу данных**  
+- **Сертификат**
+  *Интенсив по анализу данных с помощью ChatGPT*
   ![Интенсив по анализу данных с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)
 
-- **Диплом по мобильной разработке (Flutter Flow)**  
+- **Сертификат**
+  *Интенсив по разработке мобильных приложений на Flutter Flow*
   ![Интенсив по разработке мобильных приложений на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)
 
 - **Сертификат SQL Academy**  
