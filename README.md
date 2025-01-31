@@ -13,11 +13,11 @@
 - **Диплом по нейросетям**  
   ![Нейро Бизнес и ВИП (завершил)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)
   
-- **Диплом по анализу данных**  
-  ![Интенсив по анализу данных с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)
-
 - **Диплом по программированию на Python**  
   ![Интенсив по программированию на PYTHON с помощью chatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)
+
+- **Диплом по анализу данных**  
+  ![Интенсив по анализу данных с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)
 
 - **Диплом по мобильной разработке (Flutter Flow)**  
   ![Интенсив по разработке мобильных приложений на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)
