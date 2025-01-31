@@ -22,4 +22,11 @@
 - **Диплом по мобильной разработке (Flutter Flow)**  
   ![Интенсив по разработке мобильных приложений на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)
 
+- **Сертификат SQL Academy**  
+  ![SQL Academy](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/SQL_ACADEMY.png)
+
+- **Сертификат Python-разработчик**  
+  ![SQL Academy](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Python_Sertificate.png)
+
+
 > 🛠️ Открыт для интересных проектов и предложений!
