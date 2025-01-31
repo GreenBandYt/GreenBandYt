@@ -10,10 +10,16 @@
 
 ## 🎓 Дипломы и Сертификаты
 
-- **Диплом по программированию на Python**  
-  ![Диплом Python](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/diploma_python.png)
-
+- **Диплом по нейросетям**  
+  ![Нейро Бизнес и ВИП (завершил)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)
+  
 - **Диплом по анализу данных**  
-  ![Диплом Data Science](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/diploma_data_science.png)
+  ![Интенсив по анализу данных с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)
+
+- **Диплом по программированию на Python**  
+  ![Интенсив по программированию на PYTHON с помощью chatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)
+
+- **Диплом по мобильной разработке (Flutter Flow)**  
+  ![Интенсив по разработке мобильных приложений на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)
 
 > 🛠️ Открыт для интересных проектов и предложений!
