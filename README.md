@@ -1,36 +1,54 @@
 ## Привет! 👋 Меня зовут Юрий
+Я Python-разработчик, специализируюсь на разработке Telegram-ботов, веб-приложений и работе с базами данных.
 
-🔹 Python-разработчик с опытом в Django, Flask, Telegram-ботах и CRM-системах  
-🔹 Опыт работы с базами данных (PostgreSQL, MySQL, MariaDB)  
-🔹 Работаю с Git, CI/CD и развертыванием на Linux-серверах  
-🔹 Участвовал в разработке **Telegram-ботов с интеграцией API**, а также **полноценных веб-приложений**  
+### 🛠️ **Мои навыки**:
+🔹 **Python**: базовый и продвинутый уровень, работа с модулями и библиотеками.  
+🔹 **Разработка Telegram-ботов**: `aiogram`, обработка команд, кнопок, интеграция с базами данных.  
+🔹 **Django и Flask**: создание веб-приложений, настройка роутов, работа с моделями.  
+🔹 **Базы данных**: PostgreSQL, MySQL, MariaDB.  
+&nbsp;&nbsp;&nbsp;&nbsp;*Опыт работы с SQL-запросами, создание таблиц, связь данных.*  
+🔹 **Git и GitHub**: работа с репозиториями, коммиты, ветки, пул-реквесты.  
+🔹 **Разворачивание приложений**: настройка серверов, работа с Apache и PythonAnywhere.  
 
-📫 Связаться со мной:  
-[📧 Email](mailto:bandurayv@gmail.com) | [💬 Telegram](https://t.me/BandYuraV)
+---
 
-## 🎓 Сертификаты
+### 📜 **Пройденные курсы**:
+📌 **[Программист на Python с нуля с помощью ChatGPT](https://zerocoder.ru/python-from-scratch-with-chatgpt)**  
+&nbsp;&nbsp;&nbsp;&nbsp;*Основы Python, ООП, Django, Flask, базы данных, API.*  
 
-- **Сертификат**
-  *Завершил курс Нейросети: от принципов к практике*
-  ![Нейро Бизнес и ВИП (завершил)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)
-  
-- **Сертификат**
-  *Интенсив по программированию на PYTHON с помощью chatGPT*
-  ![Интенсив по программированию на PYTHON с помощью chatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)
+📌 **[Нейросети: от принципов к практике](https://zerocoder.ru/neural-networks-from-principles-to-practice?param=main_page)**  
+&nbsp;&nbsp;&nbsp;&nbsp;*Знакомство с нейросетями, их архитектура и принципы работы.*  
 
-- **Сертификат**
-  *Интенсив по анализу данных с помощью ChatGPT*
-  ![Интенсив по анализу данных с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)
+---
 
-- **Сертификат**
-  *Интенсив по разработке мобильных приложений на Flutter Flow*
-  ![Интенсив по разработке мобильных приложений на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)
+📫 **Связаться со мной**:  
+📧 [Email](mailto:bandurayv@gmail.com) | 💬 [Telegram](https://t.me/BandYuraV)  
 
-- **Сертификат SQL Academy**  
-  ![SQL Academy](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/SQL_ACADEMY.jpg)
+---
 
-- **Сертификат Python-разработчик**  
-  ![SQL Academy](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Python_Sertificate.jpg)
+## 🎓 **Сертификаты**
+### **Сертификат**  
+**Нейросети: от принципов к практике**  
+![Нейро Бизнес и ВИП (завершил)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)
 
+### **Сертификат**  
+**Интенсив по программированию на PYTHON с помощью ChatGPT**  
+![Интенсив по программированию на PYTHON с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)
 
-> 🛠️ Открыт для интересных проектов и предложений!
+### **Сертификат**  
+**Интенсив по анализу данных с помощью ChatGPT**  
+![Интенсив по анализу данных с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)
+
+### **Сертификат**  
+**Интенсив по разработке мобильных приложений на Flutter Flow**  
+![Интенсив по разработке мобильных приложений на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)
+
+### **Сертификат SQL Academy**  
+![SQL Academy](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/SQL_ACADEMY.jpg)
+
+### **Сертификат Python-разработчик**  
+![Python Developer](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Python_Sertificate.jpg)
+
+---
+
+> 🚀 **Открыт для интересных проектов и предложений!**
