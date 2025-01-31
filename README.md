@@ -22,7 +22,7 @@
 ---
 
 📫 **Связаться со мной**:  
-📧 [Email](mailto:bandurayv@gmail.com) | 💬 [Telegram](https://t.me/BandYuraV)  
+📧 [Email](mailto:bandurayv@yandex.ru) | 💬 [Telegram](https://t.me/BandYuraV)  
 
 ---
 
