@@ -1,16 +1,19 @@
-## Hi there 👋
+## Привет! 👋 Меня зовут Юрий
 
-<!--
-**GreenBandYt/GreenBandYt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Python-разработчик с опытом в Django, Flask, Telegram-ботах и CRM-системах  
+🔹 Опыт работы с базами данных (PostgreSQL, MySQL, MariaDB)  
+🔹 Работаю с Git, CI/CD и развертыванием на Linux-серверах  
+🔹 Участвовал в разработке **Telegram-ботов с интеграцией API**, а также **полноценных веб-приложений**  
 
-Here are some ideas to get you started:
+📫 Связаться со мной:  
+[📧 Email](mailto:bandurayv@gmail.com) | [💬 Telegram](https://t.me/BandYuraV)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Дипломы и Сертификаты
+
+- **Диплом по программированию на Python**  
+  ![Диплом Python](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/diploma_python.png)
+
+- **Диплом по анализу данных**  
+  ![Диплом Data Science](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/diploma_data_science.png)
+
+> 🛠️ Открыт для интересных проектов и предложений!
