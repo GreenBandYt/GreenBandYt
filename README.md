@@ -24,7 +24,6 @@
 | [![Python ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_13873.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png) | **Интенсив по программированию на Python с ChatGPT**  |
 | [![Data Analysis](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_14009.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png) | **Интенсив по анализу данных с ChatGPT**  |
 | [![Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_15253.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png) | **Интенсив по разработке мобильных приложений на Flutter Flow** |
-
 ---
 ## 📬 **Как со мной связаться?**  
 📧 [Email](mailto:bandurayv@yandex.ru) | 💬 [Telegram](https://t.me/BandYuraV)  
