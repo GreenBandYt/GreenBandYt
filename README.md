@@ -1,55 +1,47 @@
-## Привет! 👋 Меня зовут Юрий  /  <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -8px; display: inline-block;">reenBandYt (GBt)  
-Я Python-разработчик, специализируюсь на разработке Telegram-ботов, веб-приложений и работе с базами данных.
+# 🚀 Привет! 👋 Меня зовут Юрий  /  <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -8px; display: inline-block;">reenBandYt (GBt)  
+### **Python-разработчик | Telegram-боты | Веб-приложения | Базы данных**  
 
-
-### 🛠️ **Мои навыки**:
-🔹 **Python**: базовый и продвинутый уровень, работа с модулями и библиотеками.  
-🔹 **Разработка Telegram-ботов**: aiogram, обработка команд, кнопок, интеграция с базами данных.  
-🔹 **Django и Flask**: создание веб-приложений, настройка роутов, работа с моделями.  
-🔹 **Базы данных**: PostgreSQL, MySQL, MariaDB.  
-&nbsp;&nbsp;&nbsp;&nbsp;*Опыт работы с SQL-запросами, создание таблиц, связь данных.*  
-🔹 **Git и GitHub**: работа с репозиториями, коммиты, ветки, пул-реквесты.  
-🔹 **Разворачивание приложений**: настройка серверов, работа с Apache и PythonAnywhere.  
+![Zerocoder Graduate](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-%232ECC71?style=for-the-badge&logo=python&logoColor=white)  
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-%239B59B6?style=for-the-badge&logo=telegram&logoColor=white)  
 
 ---
 
-### 📜 **Пройденные курсы**:
-📌 **[Программист на Python с нуля с помощью ChatGPT](https://zerocoder.ru/python-from-scratch-with-chatgpt)**  
-&nbsp;&nbsp;&nbsp;&nbsp;*Основы Python, ООП, Django, Flask, базы данных, API.*  
+## 🎓 **Я продолжаю обучение в Zerocoder!**  
+🔥 **Практика с первого дня** – кодишь, а не просто учишь теорию  
+🔥 **Наставники – топовые эксперты IT** из крупных компаний  
+🔥 **Обучение с AI – работаем с ChatGPT, автоматизируем задачи**  
+🔥 **Сообщество + помощь в поиске заказов**  
 
-📌 **[Нейросети: от принципов к практике](https://zerocoder.ru/neural-networks-from-principles-to-practice?param=main_page)**  
-&nbsp;&nbsp;&nbsp;&nbsp;*Знакомство с нейросетями, их архитектура и принципы работы.*  
+📌 **[Выбери курс в Zerocoder](https://zerocoder.ru/)**  
 
 ---
 
-📫 **Связаться со мной**:  
+## 🛠 **Мои навыки после обучения**
+✅ **Python** – библиотеки, ООП, автоматизация  
+✅ **Telegram-боты** – `aiogram`, базы данных, кнопки, обработка команд  
+✅ **Django & Flask** – веб-приложения, роутинг, API  
+✅ **Базы данных** – PostgreSQL, MySQL, MariaDB  
+✅ **Git и GitHub** – коммиты, ветки, пул-реквесты  
+✅ **Разворачивание приложений** – серверы, Apache, PythonAnywhere  
+
+---
+
+## 🏆 **Сертификаты Zerocoder**  
+
+| Сертификат | Описание |
+|------------|----------------------------------|
+| [![Нейросети](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/thumbnails/Diploma_14581.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png) | **Нейросети: от принципов к практике** |
+| [![Python ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/thumbnails/Diploma_13873.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png) | **Интенсив по Python с ChatGPT** |
+| [![Data Analysis](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/thumbnails/Diploma_14009.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png) | **Анализ данных с ChatGPT** |
+| [![Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/thumbnails/Diploma_15253.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png) | **Разработка мобильных приложений на Flutter Flow** |
+
+---
+
+## 📬 **Как со мной связаться?**  
 📧 [Email](mailto:bandurayv@yandex.ru) | 💬 [Telegram](https://t.me/BandYuraV)  
 
 ---
 
-## 🎓 **Сертификаты**
-### **Сертификат**  
-**Нейросети: от принципов к практике**  
-![Нейро Бизнес и ВИП (завершил)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)
-
-### **Сертификат**  
-**Интенсив по программированию на PYTHON с помощью ChatGPT**  
-![Интенсив по программированию на PYTHON с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)
-
-### **Сертификат**  
-**Интенсив по анализу данных с помощью ChatGPT**  
-![Интенсив по анализу данных с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)
-
-### **Сертификат**  
-**Интенсив по разработке мобильных приложений на Flutter Flow**  
-![Интенсив по разработке мобильных приложений на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)
-
-### **Сертификат SQL Academy**  
-![SQL Academy](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/SQL_ACADEMY.jpg)
-
-### **Сертификат Python-разработчик**  
-![Python Developer](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Python_Sertificate.jpg)
-
----
-
-> 🚀 **Открыт для интересных проектов и предложений!**
+> **🚀 Открыт для проектов и сотрудничества!**  
+> **🎓 Выпускник Университета Zerocoder | Программирование | Нейросети | Telegram-боты**  
