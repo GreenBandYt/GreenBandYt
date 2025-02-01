@@ -44,12 +44,12 @@
 
 ### Сертификаты:
 
-| Сертификат | Описание |
-|------------|----------|
-| [![Нейросети](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_14581.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png) | **Нейросети: от принципов к практике** |
-| [![Python ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_13873.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png) | **Программирование на Python с ChatGPT** |
-| [![Data Analysis](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_14009.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png) | **Анализ данных с ChatGPT** |
-| [![Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_15253.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png) | **Мобильные приложения на Flutter Flow** |
+## 🏆 **Сертификаты Zerocoder**  
+
+- **[Нейросети: от принципов к практике](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)**
+- **[Программирование на Python с ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)**
+- **[Анализ данных с ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)**
+- **[Мобильные приложения на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)**
 
 ---
 
