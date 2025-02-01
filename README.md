@@ -41,10 +41,7 @@
 ---
 ### 🎓 Образование и сертификаты
 
-Я учусь и совершенствуюсь вместе с Zerocoder:
-
-- **Выпускник Zerocoder**  
-  ![Zerocoder](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=flat-square)
+Я учусь и совершенствуюсь вместе с Zerocoder: ![Zerocoder](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=flat-square)
 
 ### Сертификаты:
 
