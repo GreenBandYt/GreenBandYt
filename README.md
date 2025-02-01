@@ -1,4 +1,5 @@
-# Привет! Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;">reenBandYt (GBt) ![GreenBandYt](https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white) ![Zerocoder](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge)
+# Привет! Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;">reenBandYt (GBt) ![GreenBandYt](https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white) ![Zerocoder](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAAAhElEQVQ4je2U0Q3DIBBF3xThITuACmACmACegAloAJqAB6kLSELOJeJnKTmXPmt1+/zupQQSn+2OlsH6gTdf3t6AE8BuhCmvAVeRA9Yh0aPbPtCSgHz9RzAa4FdxmD8pGJzKhzJfX57Qt4C0gKlVXKLcU4pEmuFex6ojVMSKhjLUvY/qhcfbixcwEAAAAASUVORK5CYII=)
+
 
 
 **Python-разработчик | Telegram-боты | Веб-приложения | Базы данных**  
