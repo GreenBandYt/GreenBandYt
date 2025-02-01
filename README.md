@@ -1,4 +1,4 @@
-# 🚀 Привет! 👋 Меня зовут Юрий  /  <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -8px; display: inline-block;">reenBandYt (GBt)  ![Zerocoder Graduate](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge) 
+# 🚀 Привет! 👋 Меня зовут Юрий  /  <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -8px; display: inline-block;">reenBandYt (GBt)![Zerocoder Graduate](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge) 
 ### **Python-разработчик | Telegram-боты | Веб-приложения | Базы данных**  
 ---
 ## 🎓 **Я продолжаю обучение в Zerocoder!**  
