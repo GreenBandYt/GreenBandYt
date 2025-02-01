@@ -1,4 +1,4 @@
-# **Привет! Меня зовут Юрий** / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -2px;">reenBandYt (GBt)
+# **Привет! Меня зовут Юрий** / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -2px;">reenBandYt
 
 <p>
   <a href="https://github.com/GreenBandYt" target="_blank" rel="noopener noreferrer">
