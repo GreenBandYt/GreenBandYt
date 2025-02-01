@@ -1,4 +1,4 @@
-## 🚀 Привет! 👋 Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="12" alt="G" style="vertical-align: -2px;">reenBandYt (GBt)  
+## 🚀 Привет! 👋 Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;">reenBandYt (GBt)  
 **Python-разработчик | Telegram-боты | Веб-приложения | Базы данных**  
 
 ---
