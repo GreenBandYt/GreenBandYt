@@ -1,4 +1,4 @@
-# Привет! Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;">reenBandYt (GBt)
+# Привет! Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;">reenBandYt (GBt)![GreenBandYt](https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white)
 
 **Python-разработчик | Telegram-боты | Веб-приложения | Базы данных**  
 **"Зелёный код жизни" – код, который растёт вместе с тобой!**
@@ -52,32 +52,10 @@
 
 ---
 
-## 🚀 Проекты
-
-*Основные проекты в рамках бренда "Зелёный код жизни":*
-
-- **[GreenCodeGarden](https://github.com/GreenBandYt/GreenCodeGarden)**  
-  Навигационный репозиторий, объединяющий все проекты и идеи бренда.
-
-- **[FlowerDeliveryMaster](https://github.com/GreenBandYt/FlowerDeliveryMaster)**  
-  Ключевой проект с инновационными решениями в сфере доставки цветов.
-
-- **[Telegram-боты](https://github.com/GreenBandYt/telegram-bots)**  
-  Набор Telegram-ботов для различных задач (информационные, развлекательные и др.).
-
-- **[Курс Python](https://github.com/GreenBandYt/python-course)**  
-  Обучающий проект с практическими заданиями по Python.
-
-- **[Курс нейросетей](https://github.com/GreenBandYt/neural-networks-course)**  
-  Проект, посвящённый изучению и экспериментам в области нейросетей.
-
----
-
 ## 📬 Контакты
 
 - **Email:** [bandurayv@yandex.ru](mailto:bandurayv@yandex.ru)
 - **Telegram:** [@BandYuraV](https://t.me/BandYuraV)
-- **GitHub:** [GreenBandYt](https://github.com/GreenBandYt)
 - *(При желании можно добавить ссылки на LinkedIn или другие соцсети)*
 
 ---
