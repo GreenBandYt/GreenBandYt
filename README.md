@@ -14,30 +14,13 @@
 
 ## 🛠 Мои навыки
 
-- **Python**  
-  ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=ffdd54)
-  - Библиотеки, ООП, автоматизация
+- **Python**: библиотеки, ООП, автоматизация
+- **Telegram-боты**: `aiogram`, базы данных, кнопки
+- **Django & Flask**: веб-приложения, API
+- **Базы данных**: PostgreSQL, MySQL, MariaDB
+- **Git и GitHub**: коммиты, ветки, пул-реквесты
+- **Разворачивание приложений**: серверы, Apache, PythonAnywhere
 
-- **Telegram-боты**  
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-  - `aiogram`, базы данных, кнопки
-
-- **Django & Flask**  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
-  - Веб-приложения, API
-
-- **Базы данных**  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  - PostgreSQL, MySQL, MariaDB
-
-- **Git и GitHub**  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  - Коммиты, ветки, пул-реквесты
-
-- **Разворачивание приложений**  
-  - Серверы, Apache, PythonAnywhere
-
----
 
 ## 🌱 Зеленый код жизни и брендинг
 
