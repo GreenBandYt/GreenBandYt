@@ -1,4 +1,5 @@
-# Привет! Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;">reenBandYt (GBt) ![GreenBandYt](https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white) ![Zerocoder](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge&logo=https://optim.tildacdn.com/tild3964-3838-4262-b532-343361633633/-/cover/90x90/center/center/-/format/webp/Unknown.png)
+# Привет! Меня зовут Юрий / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;">reenBandYt (GBt) ![GreenBandYt](https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white) ![Zerocoder](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge&logo=https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/logos/zerocoder.png)
+
 
 
 
