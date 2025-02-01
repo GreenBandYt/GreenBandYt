@@ -1,22 +1,13 @@
-# 🚀 Привет! 👋 Меня зовут Юрий  /  <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -8px; display: inline-block;">reenBandYt (GBt)  
+# 🚀 Привет! 👋 Меня зовут Юрий  /  <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -8px; display: inline-block;">reenBandYt (GBt)  ![Zerocoder Graduate](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge) 
 ### **Python-разработчик | Telegram-боты | Веб-приложения | Базы данных**  
-
-![Zerocoder Graduate](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge)  
-![Python](https://img.shields.io/badge/Python-%232ECC71?style=for-the-badge&logo=python&logoColor=white)  
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-%239B59B6?style=for-the-badge&logo=telegram&logoColor=white)  
-
 ---
-
 ## 🎓 **Я продолжаю обучение в Zerocoder!**  
 🔥 **Практика с первого дня** – кодишь, а не просто учишь теорию  
 🔥 **Наставники – топовые эксперты IT** из крупных компаний  
 🔥 **Обучение с AI – работаем с ChatGPT, автоматизируем задачи**  
 🔥 **Сообщество + помощь в поиске заказов**  
-
 📌 **[Выбери курс в Zerocoder](https://zerocoder.ru/)**  
-
 ---
-
 ## 🛠 **Мои навыки после обучения**
 ✅ **Python** – библиотеки, ООП, автоматизация  
 ✅ **Telegram-боты** – `aiogram`, базы данных, кнопки, обработка команд  
@@ -24,9 +15,7 @@
 ✅ **Базы данных** – PostgreSQL, MySQL, MariaDB  
 ✅ **Git и GitHub** – коммиты, ветки, пул-реквесты  
 ✅ **Разворачивание приложений** – серверы, Apache, PythonAnywhere  
-
 ---
-
 ## 🏆 **Сертификаты Zerocoder**  
 
 | Сертификат | Описание |
@@ -35,13 +24,9 @@
 | [![Python ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/thumbnails/Diploma_13873.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png) | **Интенсив по Python с ChatGPT** |
 | [![Data Analysis](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/thumbnails/Diploma_14009.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png) | **Анализ данных с ChatGPT** |
 | [![Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/thumbnails/Diploma_15253.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png) | **Разработка мобильных приложений на Flutter Flow** |
-
 ---
-
 ## 📬 **Как со мной связаться?**  
 📧 [Email](mailto:bandurayv@yandex.ru) | 💬 [Telegram](https://t.me/BandYuraV)  
-
 ---
-
 > **🚀 Открыт для проектов и сотрудничества!**  
 > **🎓 Выпускник Университета Zerocoder | Программирование | Нейросети | Telegram-боты**  
