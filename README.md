@@ -1,7 +1,8 @@
 ## Привет! 👋 Меня зовут Юрий  
-<img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/logo_g.png" width="20" alt="G" align="absmiddle" style="display:inline">
+<img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/logo_g.png" width="20" alt="G" style="vertical-align: middle; display: inline-block;">
 reenBandYt (GBt)  
 Я Python-разработчик, специализируюсь на разработке Telegram-ботов, веб-приложений и работе с базами данных.
+
 
 ### 🛠️ **Мои навыки**:
 🔹 **Python**: базовый и продвинутый уровень, работа с модулями и библиотеками.  
