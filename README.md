@@ -20,10 +20,10 @@
 
 | Сертификат | Описание |
 |------------|----------------------------------|
-| [![Нейросети](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_14581.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/Diploma_14581.png) | **Нейросети: от принципов к практике** |
-| [![Python ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_13873.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png) | **Интенсив по Python с ChatGPT** |
-| [![Data Analysis](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_14009.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png) | **Анализ данных с ChatGPT** |
-| [![Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/thumbnails/thumbnail_15253.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png) | **Разработка мобильных приложений на Flutter Flow** |
+| [![Нейросети](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/assets/certificates/thumbnail_14581.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/certificates/Diploma_14581.png) | **Нейросети: от принципов к практике** |
+| [![Python ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/assets/certificates/thumbnail_13873.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png) | **Интенсив по Python с ChatGPT** |
+| [![Data Analysis](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/assets/certificates/thumbnail_14009.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png) | **Анализ данных с ChatGPT** |
+| [![Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/assets/certificates/thumbnail_15253.png)](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png) | **Разработка мобильных приложений на Flutter Flow** |
 ---
 ## 📬 **Как со мной связаться?**  
 📧 [Email](mailto:bandurayv@yandex.ru) | 💬 [Telegram](https://t.me/BandYuraV)  
