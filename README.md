@@ -42,9 +42,7 @@
 
 Я учусь и совершенствуюсь вместе с Zerocoder: ![Zerocoder](https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=flat-square)
 
-### Сертификаты:
-
-## 🏆 **Сертификаты Zerocoder**  
+### 🏆 **Сертификаты Zerocoder**  
 
 - **[Нейросети: от принципов к практике](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)**
 - **[Программирование на Python с ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)**
