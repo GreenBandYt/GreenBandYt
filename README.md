@@ -38,8 +38,9 @@
 - здесь объединены все проекты и идеи, связанные с брендом **GreenBandYt** – Зеленый код жизни.
 - 📌 Хочешь быстро найти мои работы?
 Забудь о долгом поиске – веб-версия GreenCodeGarden поможет легко ориентироваться среди проектов:
-** Открой сайт <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="20" alt="G" style="vertical-align: -2px;"> **[GreenCodeGarden](https://greenbandyt.github.io/GreenCodeGarden/)** – и сразу увидеть всё наглядно!
+** Открой сайт <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="15" alt="G" style="vertical-align: -2px;"> **[GreenCodeGarden](https://greenbandyt.github.io/GreenCodeGarden/)** – и сразу увидеть всё наглядно!
 
+---
 
 ### 🌱 Зеленый код жизни и брендинг
 
