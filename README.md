@@ -37,7 +37,9 @@
 
 ### Мой бренд: ###  
 - **<img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="16" alt="G" style="vertical-align: -2px;">reenBandYt – Зеленый код жизни!**  
-- Фирменный бейдж: ![GreenBandYt](https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white)
+- Фирменный бейдж:   <a href="https://github.com/GreenBandYt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white">
+  </a>
 ---
 ### 🛠 Мои навыки
 
