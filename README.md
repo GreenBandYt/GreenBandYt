@@ -56,6 +56,7 @@
 
 ### 🏆 **Сертификаты Zerocoder**  
 
+- **[Программист на Python с нуля с помощью ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/diploma_18568.png)**
 - **[Нейросети: от принципов к практике](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14581.png)**
 - **[Программирование на Python с ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_13873.png)**
 - **[Анализ данных с ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)**
