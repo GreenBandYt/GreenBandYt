@@ -61,6 +61,10 @@
 - **[Анализ данных с ChatGPT](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_14009.png)**
 - **[Мобильные приложения на Flutter Flow](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Diploma_15253.png)**
 
+### 🏆 **Сертификаты **
+- **[Hexlet. Подготовительный курс Python-разработчик](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/Python_Sertificate.jpg)**
+- **[SQL ACADEMY. Сертификат о прохождении курса по SQL](https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/certificates/SQL_ACADEMY.jpg)**
+
 ---
 
 ### 📬 Контакты
